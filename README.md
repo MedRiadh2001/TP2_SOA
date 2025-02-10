@@ -36,7 +36,7 @@ Ce document présente le compte rendu du **Travail Pratique 2 (TP2)** du cours *
 1. Clonez ce dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/ton-repo/TP2_SOA.git
+git clone https://github.com/MedRiadh2001/TP2_SOA.git
 ```
  2. Installez les dépendances nécessaires :
 
